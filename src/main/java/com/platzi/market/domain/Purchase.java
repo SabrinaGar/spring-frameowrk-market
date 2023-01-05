@@ -1,7 +1,10 @@
 package com.platzi.market.domain;
 
+import org.springframework.stereotype.Service;
+
 import java.time.LocalDateTime;
 import java.util.List;
+
 
 public class Purchase {
     private int purchaseId;
